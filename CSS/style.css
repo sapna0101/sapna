@@ -1,7 +1,7 @@
 @import 'utility.css';
 
 :root {
-    --site_color: #a37cf0;
+    --site_color: #b48efa;
 }
 
 body {
@@ -854,7 +854,7 @@ footer .copy {
     /* SKILL SECTION */
 
     .sec_head {
-        font-size: 5.5rem;
+        font-size: 5rem;
     }
 
     .sec_head+p {
@@ -882,10 +882,10 @@ footer .copy {
     }
 
     .first_card img {
-        width: 185px;
-        height: 200px;
-        border-radius: 92px;
-        top: -11.4rem;
+        width: 160px;
+    height: 169px;
+    border-radius: 92px;
+    top: -8.4rem;
     }
 
     /* EDUCATION SECTION */
@@ -909,11 +909,11 @@ footer .copy {
     }
 
     .education .container .box span {
-        font-size: 2.8rem;
+        font-size: 2rem;
     }
 
     .education .container .box h3 {
-        font-size: 3.5rem;
+        font-size: 2.2rem;
         padding-top: 2.5rem;
         margin-bottom: 1rem;
         margin-top: -2rem;
@@ -938,11 +938,11 @@ footer .copy {
 
     .contact .cards .first_card i {
         margin-top: 6rem;
-        font-size: 8.9rem;
+        font-size: 6.9rem;
     }
 
     .contact .cards .first_card h1 {
-        font-size: 5rem;
+        font-size: 4rem;
     }
 
     .contact .cards .first_card h6 {
@@ -957,15 +957,14 @@ footer .copy {
     form {
         margin-top: 5rem;
     }
-
+   
     .contact input,
     .contact textarea {
         padding: 1.5rem;
-        font-size: 3rem;
+        font-size: 2rem;
         margin-top: 2rem;
-        border-width: 0.2rem;
+        
     }
-
 
    footer .logo_link {
     font-size: 3rem;
