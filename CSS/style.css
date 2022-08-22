@@ -6,6 +6,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    width: 100vw;
 }
 
 html {
@@ -21,10 +22,11 @@ html {
 
 /* HEADER SECTION */
 
-.site_main_wraper {
+
+/* .site_main_wraper {
     width: 101vw;
 
-}
+} */
 
 header {
     background-color: #161616;
